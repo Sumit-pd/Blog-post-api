@@ -18,6 +18,9 @@ cd Blog-post-api
 # Install the dependencies
 npm i
 
+#start mongo shell
+mongosh
+
 # Start server
 npm run dev
 
