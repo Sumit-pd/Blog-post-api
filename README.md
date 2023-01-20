@@ -1,12 +1,4 @@
-<h1 align="center">Codelândia Blog API</h1>
 
-## 📋 About
-
-This is a project inspired by one of <a href="https://discord.com/invite/QevDJqCzaY">Codelândia</a>'s challenges. 
-The original challenge is to code a solution for the following <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1">mockup</a>, using any front-end techs we wanted. 
-As a personal challenge to practice some backend, I made a fake API to simulate a real management system for a blog. 
-
---- 
 ### 🚀 Technologies
 - Node.js
 - Express
@@ -18,10 +10,10 @@ As a personal challenge to practice some backend, I made a fake API to simulate 
 ### 🛠️ Install
 ```bash
 # Clone the repository
-git clone https://github.com/laporeon/codelandia-backend
+git clone https://github.com/Sumit-pd/Blog-post-api.git
 
 # Navigate to project folder
-cd codelandia-backend
+cd Blog-post-api
 
 # Install the dependencies
 npm i
